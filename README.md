@@ -49,7 +49,7 @@ Contains information regarding the projects completed at Northeastern University
 * https://github.com/vinyastr/VolunteerManagementSystem
 
 ##### 8) Personality Based Recommendation System - (Python, K-means clustering, Linear regression, Jupyter Notebook) 
--  Built a recommendation System using Trip advisor data and personality score of the reviewers. 	       Dec 2017
+-  Built a recommendation System using Trip advisor data and personality score of the reviewers. 
 -  Used K-means clustering to classify the data based on the personality score in the recommendation System.
 -  Achieved root mean squared error value of 0.2835 for a mean value of 4.4385 for the model.
 
